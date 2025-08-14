@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: green;
+}
+
+.content1 {
+  margin: 15px;
+  padding: 30px;
+  border: 10px solid black;
+  background-color: blue;
+}
+
+.content2 {
+  padding: 30px;
+  background-color: red;
+}
+
+.frog {
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid black;
+}

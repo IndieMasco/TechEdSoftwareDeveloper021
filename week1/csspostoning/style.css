@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aqua;
+}
+
+.image-container {
+  position: fixed;
+  margin-top: 150px;
+  background-color: red;
+}
+
+img {
+  left: 500px;
+}

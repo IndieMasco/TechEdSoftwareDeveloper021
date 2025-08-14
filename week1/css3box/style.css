@@ -1,0 +1,15 @@
+.container {
+  background-color: aqua;
+}
+
+div :first-child {
+  background-color: purple;
+}
+
+div :last-child {
+  background-color: brown;
+}
+
+a:hover {
+  background-color: red;
+}
