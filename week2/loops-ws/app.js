@@ -87,6 +87,17 @@ for (let games of listofgames) {
 }
 
 //=======================================================
+// set keepLooping to false with 10% chance: Math.random() returns a random value between 0 and 1
+
+// let keepLooping = true;
+// let i = 0;
+// while (keepLooping === true) {
+//   console.log("Iteration", i);
+//   keepLooping = Math.random() < 0.1;
+//   i++;
+// }
+
+//=======================================================
 
 //=======================================================
 
@@ -96,7 +107,7 @@ let favouriteanimals = ["dog", "cat", "rabbit", "hamster"];
 for (let i = 0; i < favouriteanimals.length; i++)
   console.log(favouriteanimals[i]);
 
-//favourite colours loop over the array
+// favourite colours loop over the array
 let favouriteColours = ["red", "blue", "green", "yellow"];
 
 for (let i = 0; i < favouriteColours.length; i++)
