@@ -58,6 +58,36 @@ console.log("Total cost of foods:", totalCost);
 
 //=======================================================
 
+let listofgames = [
+  "chess",
+  "football",
+  "basketball",
+  "tennis",
+  "cricket",
+  "badminton",
+  "volleyball",
+  "rugby",
+  "hockey",
+  "golf",
+  "baseball",
+  "table tennis",
+  "swimming",
+  "boxing",
+  "wrestling",
+];
+
+for (let games of listofgames) {
+  console.log(
+    "Game:",
+    games,
+    "is a fun sport!",
+    games.length,
+    "characters long."
+  );
+}
+
+//=======================================================
+
 //=======================================================
 
 // favourite animals loop over the array
