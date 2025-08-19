@@ -99,16 +99,16 @@ for (let games of listofgames) {
 
 //=======================================================
 
-//=======================================================
-
-// favourite animals loop over the array
 let favouriteanimals = ["dog", "cat", "rabbit", "hamster"];
 
 for (let i = 0; i < favouriteanimals.length; i++)
   console.log(favouriteanimals[i]);
 
-// favourite colours loop over the array
+//=======================================================
+
 let favouriteColours = ["red", "blue", "green", "yellow"];
 
 for (let i = 0; i < favouriteColours.length; i++)
   console.log(favouriteColours[i]);
+
+//=======================================================
