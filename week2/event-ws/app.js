@@ -24,10 +24,10 @@ function handleCreateTea() {
 
 teaButton.addEventListener("click", handleCreateTea);
 
-const mouseout = document.getElementById("tea-button");
+teaButton.addEventListener("mouseover", (Event) => {
+  Event.target.textContent = "CAFFEINE!";
+});
 
-function handleMouseOut() {
-  const teaButton = document.getElementById("tea-button");
-}
-
-teaButton.addEventListener("mouseout", handleMouseOut);
+teaButton.addEventListener("mouseout", (Event) => {
+  Event.target.textContent = "give me caffeine";
+});
