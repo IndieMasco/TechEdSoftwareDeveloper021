@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: turquoise;
+}
+
+body {
+  display: grid;
+  /* fr means fraction */
+  grid-template-columns: 200px 1fr 2fr 1fr;
+  grid-template-rows: 1fr 1fr 10%;
+  height: 100vh;
+}
+
+.skw {
+  grid-column-start: 1;
+  /* -1 will always be the last column */
+  grid-column-end: -1;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
