@@ -3,20 +3,35 @@
 body {
   background-color: turquoise;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 10% 1fr 10%;
   height: 100vh;
 }
 
 header {
-  grid-column-start: 1;
-  grid-column-end: -1;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.box .kitty {
+  width: 300px;
+  height: 300px;
   display: flex;
   justify-content: center;
 }
 
 footer {
-  grid-row: 5;
   grid-column-start: 1;
   grid-column-end: -1;
   display: flex;
