@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+    <title>Media Elements</title>
+  </head>
+  <body>
+    <h1>Media Elements</h1>
+    <!-- Images -->
+    <!-- alt text: accessibility, SEO, as a back-up for network or src issues -->
+    <!-- we do not always need alt text example - decorative images -->
+    <div class="image">
+      <img
+        src="images/tin.jpg"
+        alt="this is a load of tins"
+        width="300"
+        height="300"
+      />
+    </div>
+
+    <!-- Audio -->
+    <!-- if you want media to autoplay use muted -->
+    <div class="audio">
+      <audio class="audio" src="./Audio/club-edyn.mp3" controls loop></audio>
+    </div>
+
+    <!-- Video -->
+    <div class="video">
+      <video
+        src="./videos/dog.mp4"
+        controls
+        loop
+        poster="./images/cat.jpg"
+        width="300"
+        height="300"
+      ></video>
+    </div>
+
+    <!-- YouTube -->
+    <div class="yt">
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/jRWR0Ob6mLI?si=hBTj95UFcWZHjzWQ"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </body>
+</html>

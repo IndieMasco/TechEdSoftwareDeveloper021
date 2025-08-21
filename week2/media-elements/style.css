@@ -1,0 +1,35 @@
+* {
+  background-color: turquoise;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  padding: 50px;
+  border: 20px solid greenyellow;
+}
+
+.audio {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  padding: 50px;
+  border: 20px solid greenyellow;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  padding: 50px;
+  border: 20px solid greenyellow;
+}
+
+.yt {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  padding: 50px;
+  border: 20px solid greenyellow;
+}
