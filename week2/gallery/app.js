@@ -18,13 +18,13 @@ const images = [
   },
 ];
 // TODO: I need to create my thumbnail images
-// function createThumbnails(){
-// select the DOM element (thumbnail-container) to contain our thumbnails
-// this is a repetitive task --> loop through our array (using the length property)
+// function createThumbnails(){✅
+// select the DOM element (thumbnail-container) to contain our thumbnails✅
+// this is a repetitive task --> loop through our array (using the length property)✅
 // Inside our loop we need to do this:
-// - create img element
-// - update the src and alt attributes of the img element to match those in the array (parameters)
-// - give each img a className (img.className)
+// - create img element✅
+// - update the src and alt attributes of the img element to match those in the array (parameters)✅
+// - give each img a className (img.className)✅
 // - add an event listener to each image --> the event handler of this listener is the function you write to create large images
 // - append the created images to the thumbnail-container
 // }
