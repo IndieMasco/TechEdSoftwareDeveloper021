@@ -2,12 +2,12 @@
 
 let myArray = ["item1", "item2", "item3"];
 
-//exaples
+// exaples
 // an array can have multiple data types stored in it
 let TecgEdStaff = ["Seth", "Chris", "John"];
 let MyFavoriteFoods = ["Pizza", 10, null, true];
 
-//length of an array
+// length of an array
 // the length of an array is the number of items in it
 // techEdStaff.length; // 3
 // MyFavoriteFoods.length; // 4
@@ -18,13 +18,13 @@ TechEdStaff.length; // 3
 console.log(TechEdStaff.length); // 3
 console.log(MyFavoriteFoods.length); // 4
 
-// we can also use the length property to loop through an array
+// We can also use the length property to loop through an array
 for (let i = 0; i < TechEdStaff.length; i++) {
   console.log(TechEdStaff[i]);
 }
 
-// we can access the items in an array using their index
-// index starts at 0
+// We can access the items in an array using their index
+// Index starts at 0
 // TechEdStaff[0]; // "Seth"
 // TechEdStaff[1]; // "Chris"
 // TechEdStaff[2]; // "John"
@@ -33,11 +33,11 @@ for (let i = 0; i < TechEdStaff.length; i++) {
 // TechEdStaff[TechEdStaff.length - 1]; // "John"
 
 // Index
-// INdex is a valur (number) that represents the position of an item in an array
+// Index is a valur (number) that represents the position of an item in an array
 // The first item in an array has an index of 0
 // The second item in an array has an index of 1
 // The third item in an array has an index of 2
-// and so on...
+// And so on...
 
 TechEdStaff[0]; // "Seth"
 TechEdStaff[1]; // "Chris"
