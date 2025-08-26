@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="./app.js" defer></script>
+    <title>Forms and Validation</title>
+  </head>
+  <body>
+    <h1>Forms and Validation</h1>
+    <form id="user-form">
+      <label for="full-name">Full name:</label>
+      <input
+        name="full-name"
+        type="text"
+        id="full-name"
+        class="full-name"
+        required
+        placeholder="spell check!"
+      />
+
+      <lable for="email">Email:</lable>
+      <input name="email" type="email" placeholder="Gmail is preferred" />
+
+      <lable for="passwork">Password:</lable>
+      <input name="password" type="password" />
+
+      <!-- <lable for="passwork">Re-type your password:</lable>
+      <input name="password" type="password" required inert="" />
+      inert names you cant copy and paste your password  -->
+
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
