@@ -6,7 +6,7 @@ console.log("hello!");
 // - Event listner
 
 const form = document.getElementById("user-form");
-form.addeventlistner("submit", handleSubmit);
+form.addEventListener("submit", handleSubmit);
 
 // - Event handler
 function handleSubmit(event) {
@@ -19,11 +19,12 @@ function handleSubmit(event) {
   //     email: blankSpace,
   //     password: blankSpace
   // }
-  const formDataTemplate = new formData(form);
-  //   console.log(formDataTemplate);
+  const formDataTemplate = new FormData(form);
+  console.log(formDataTemplate);
   // - Add the user input values to our object template
   const formValues = Object.fromEntries(formDataTemplate);
-  // console.log(formValues); if we console.log this is what we should see
+  console.log(formValues);
+  // if we console.log this is what we should see
   // form {
   //     full-name: "Sam"
   //     email: "sam@gmail.com"
