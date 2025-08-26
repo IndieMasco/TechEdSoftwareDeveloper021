@@ -28,17 +28,17 @@ myArray.myMethod = function (sProperty) {
   console.log(arguments.length > 0 ? this[sProperty] : this);
 };
 
-myArray.myMethod(); // prints "zero,one,two"
-myArray.myMethod(1); // prints "one"
+myArray.myMethod(); // Prints "zero,one,two"
+myArray.myMethod(1); // Prints "one"
 
 //====================================================
 
 setTimeout(function () {
   myArray.myMethod();
-}, 2.0 * 1000); // prints "zero,one,two" after 2 seconds
+}, 2.0 * 1000); // Prints "zero,one,two" after 2 seconds
 setTimeout(function () {
   myArray.myMethod("1");
-}, 2.5 * 1000); // prints "one" after 2.5 seconds
+}, 2.5 * 1000); // Prints "one" after 2.5 seconds
 
 //====================================================
 
@@ -47,10 +47,10 @@ const myBoundMethod = function (sProperty) {
   console.log(arguments.length > 0 ? this[sProperty] : this);
 }.bind(myArray);
 
-myBoundMethod(); // prints "zero,one,two" because 'this' is bound to myArray in the function
-myBoundMethod(1); // prints "one"
-setTimeout(myBoundMethod, 1.0 * 1000); // still prints "zero,one,two" after 1 second because of the binding
-setTimeout(myBoundMethod, 1.5 * 1000, "1"); // prints "one" after 1.5 seconds
+myBoundMethod(); // Prints "zero,one,two" because 'this' is bound to myArray in the function
+myBoundMethod(1); // Prints "one"
+setTimeout(myBoundMethod, 1.0 * 1000); // Still prints "zero,one,two" after 1 second because of the binding
+setTimeout(myBoundMethod, 1.5 * 1000, "1"); // Prints "one" after 1.5 seconds
 
 //====================================================
 
@@ -58,30 +58,30 @@ let last = 0;
 let iterations = 10;
 
 function timeout() {
-  // log the time of this call
+  // Log the time of this call
   log(new Date().getMilliseconds());
-  // if we are not finished, schedule the next call
+  // If we are not finished, schedule the next call
   if (iterations-- > 0) {
     setTimeout(timeout, 0);
   }
 }
 
 function run() {
-  // clear the log
+  // Clear the log
   const log = document.querySelector("#log");
   while (log.lastElementChild) {
     log.removeChild(log.lastElementChild);
   }
 
-  // initialize iteration count and the starting timestamp
+  // Initialize iteration count and the starting timestamp
   iterations = 10;
   last = new Date().getMilliseconds();
-  // start timer
+  // Start timer
   setTimeout(timeout, 0);
 }
 
 function log(now) {
-  // log the last timestamp, the new timestamp, and the difference
+  // Log the last timestamp, the new timestamp, and the difference
   const tableBody = document.getElementById("log");
   const logRow = tableBody.insertRow();
   logRow.insertCell().textContent = last;
