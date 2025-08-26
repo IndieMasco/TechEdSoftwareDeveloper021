@@ -4,6 +4,6 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 # External Sources
 
-### INFO
+###### INFO
 
 [MDN](https://developer.mozilla.org/en-US/), [W3Scgool](https://www.w3schools.com/),
