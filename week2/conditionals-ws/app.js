@@ -1,18 +1,18 @@
 console.log("Welcome to the Conditional Statements Workshop!");
 
 // let age = 17;
-// let movieRating = "PG";
+let movieRating = "PG";
 
-// if (age > 17) {
-//   console.log("You can watch any movie!");
-// } else if (age === 17) {
-//   if (movieRating === "PG") {
-//     console.log("You can watch the movie!");
-//   }
-//   // ...
-// } else {
-//   console.log("You cannot watch this movie.");
-// }
+if (age > 17) {
+  console.log("You can watch any movie!");
+} else if (age === 17) {
+  if (movieRating === "PG") {
+    console.log("You can watch the movie!");
+  }
+  // ...
+} else {
+  console.log("You cannot watch this movie.");
+}
 
 let weather = "sunny";
 let temperature = 30;

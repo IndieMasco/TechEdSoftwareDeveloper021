@@ -1,11 +1,11 @@
 console.log("Hello, World!");
 
-// objects
-// data containers for more complex data
+// Objects
+// Data containers for more complex data
 
-// structre
-// we use {} for objects
-// each property has two parts --> key: value
+// Structre
+// We use {} for objects
+// Each property has two parts --> key: value
 
 let city = {
   ciryName: "Norwich",

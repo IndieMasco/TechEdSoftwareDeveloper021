@@ -12,7 +12,7 @@ async function getFoxes() {
   return wrangledData;
 }
 
-// getFoxes();
+getFoxes();
 
 // TODO: Render the images on the DOM
 

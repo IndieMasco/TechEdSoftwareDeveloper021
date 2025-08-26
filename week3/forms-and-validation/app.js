@@ -10,7 +10,7 @@ form.addEventListener("submit", handleSubmit);
 
 // - Event handler
 function handleSubmit(event) {
-  // - (event) is just a placeholder it can be anything
+  // - (event) Is just a placeholder it can be anything
   // Prevent the default behaviour of the submit event --> TO add our input data to the URL
   event.preventDefault();
   // - Create an element to store out data --> object template
@@ -24,7 +24,7 @@ function handleSubmit(event) {
   // - Add the user input values to our object template
   const formValues = Object.fromEntries(formDataTemplate);
   console.log(formValues);
-  // if we console.log this is what we should see
+  // If we console.log this is what we should see
   // form {
   //     full-name: "Sam"
   //     email: "sam@gmail.com"

@@ -76,7 +76,7 @@ for (let i = 0; i < blogPost.tags.length; i++) {
   console.log(blogPost.tags[i]); // Output: coding, javascript, objects, arrays
 }
 
-//Or use a for of loop if you don’t need the index
+// Or use a for of loop if you don’t need the index
 
 console.log(`Tags for post "${blogPost.title}":`); // Output: Tags for post "My first blog post":
 for (let tag of blogPost.tags) {

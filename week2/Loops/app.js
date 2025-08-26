@@ -55,19 +55,19 @@ for (let subject of subjects) {
   console.log(subject);
 }
 
-// forEach()
-// a methed --> a JS default function
-// structure
+// ForEach()
+// A methed --> a JS default function
+// Structure
 subjects.forEach(function (subject) {
   console.log(subject);
 });
 
 //TODO: i want to render <display, show) 3 images in my page
-// - i need a container to hold the images ✅
-// - i need a loop to perform a repetitve task (for the loop)
-// - i need the image source and alt text ✅
-// - i need to store the images data ✅
-// - i need create and add the images to the DOM
+// - I need a container to hold the images ✅
+// - I need a loop to perform a repetitve task (for the loop)
+// - I need the image source and alt text ✅
+// - I need to store the images data ✅
+// - I need create and add the images to the DOM
 
 let imgURLs = [
   "https://images.unsplash.com/photo-1444212477490-ca407925329e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9nc3xlbnwwfDB8MHx8fDI%3D",
@@ -77,7 +77,7 @@ let imgURLs = [
 
 let altText = ["A beautiful dog", "A cute puppy", "A lovely dog"];
 
-//select the container
+// Select the container
 const imageContainer = document.querySelector(".image-container");
 for (let i = 0; i <= altText.length; i++) {
   // create the image element

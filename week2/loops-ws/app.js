@@ -87,15 +87,15 @@ for (let games of listofgames) {
 }
 
 //=======================================================
-// set keepLooping to false with 10% chance: Math.random() returns a random value between 0 and 1
+// Set keepLooping to false with 10% chance: Math.random() returns a random value between 0 and 1
 
-// let keepLooping = true;
+let keepLooping = true;
 // let i = 0;
-// while (keepLooping === true) {
-//   console.log("Iteration", i);
-//   keepLooping = Math.random() < 0.1;
-//   i++;
-// }
+while (keepLooping === true) {
+  console.log("Iteration", i);
+  keepLooping = Math.random() < 0.1;
+  i++;
+}
 
 //=======================================================
 
