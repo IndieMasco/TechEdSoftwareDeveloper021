@@ -20,10 +20,10 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/), [Free APIs](https://free-apis.github.io/#/)
 
-##### Extra Learning
-
-[Codecademy](https://www.codecademy.com/)
-
 ##### Other
 
 [CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
+
+##### Extra Learning
+
+[Codecademy](https://www.codecademy.com/)
