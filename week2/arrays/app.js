@@ -1,18 +1,18 @@
-// storing out array in a variable
+// Storing out array in a variable
 
 let myArray = ["item1", "item2", "item3"];
 
-// exaples
-// an array can have multiple data types stored in it
+// Exaples
+// An array can have multiple data types stored in it
 let TecgEdStaff = ["Seth", "Chris", "John"];
 let MyFavoriteFoods = ["Pizza", 10, null, true];
 
-// length of an array
-// the length of an array is the number of items in it
-// techEdStaff.length; // 3
+// Length of an array
+// The length of an array is the number of items in it
+// TechEdStaff.length; // 3
 // MyFavoriteFoods.length; // 4
 
-// we can access the length property of an array
+// We can access the length property of an array
 TechEdStaff.length; // 3
 
 console.log(TechEdStaff.length); // 3
@@ -29,7 +29,7 @@ for (let i = 0; i < TechEdStaff.length; i++) {
 // TechEdStaff[1]; // "Chris"
 // TechEdStaff[2]; // "John"
 
-// we can also use the length property to access the last item in an array
+// We can also use the length property to access the last item in an array
 // TechEdStaff[TechEdStaff.length - 1]; // "John"
 
 // Index
@@ -45,12 +45,12 @@ TechEdStaff[2]; // "John"
 
 console.log(TechEdStaff[0]); // "Seth"
 
-// what is the index of the last item in an array?
-// we can use the length property to find the index of the last item in an array
+// What is the index of the last item in an array?
+// We can use the length property to find the index of the last item in an array
 TechEdStaff(TechEdStaff.length - 1); // "John"
 console.log(TechEdStaff[TechEdStaff.length - 1]); // "John"
 
-// we can also use the length property to loop through an array backwards
+// We can also use the length property to loop through an array backwards
 for (let i = TechEdStaff.length - 1; i >= 0; i--) {
   console.log(TechEdStaff[i]);
 }

@@ -1,24 +1,24 @@
-// let mynumber = 5;
-// mynumber = 10;
-// mynumber = 541;
-// console.log(mynumber);
+// Let mynumber = 5;
+// Mynumber = 10;
+// Mynumber = 541;
+// Console.log(mynumber);
 
-// const mynumber = 100;
-// mynumber = 10;
-// console.log(mynumber);
+// Const mynumber = 100;
+// Mynumber = 10;
+// Console.log(mynumber);
 
-// let sum = 1 + 1 + 10 + 250;
-// console.log(sum);
+// Let sum = 1 + 1 + 10 + 250;
+// Console.log(sum);
 
-// let firstname = "sam";
-// let lastname = "clark";
-// let age = 31;
+// Let firstname = "sam";
+// Let lastname = "clark";
+// Let age = 31;
 
-// let fullname = firstname + " " + lastname;
-// console.log(fullname);
+// Let fullname = firstname + " " + lastname;
+// Console.log(fullname);
 
-// let profile = fullname + " is " + age + " years old.";
-// console.log(profile);
+// Let profile = fullname + " is " + age + " years old.";
+// Console.log(profile);
 
 let a = 5;
 let b = 10;

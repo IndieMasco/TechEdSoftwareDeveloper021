@@ -1,17 +1,17 @@
 console.log("hello world!");
 
-// callback function --> used as an argument of a method or another function
+// Callback function --> used as an argument of a method or another function
 
 const staff = ["sam", "manny", "joe"];
 
 // TODO: add each item in the array to the console ( 3 times --> length)
-// - for loop
-// - forEach() --> array method
-// - for ... of
+// - For loop
+// - ForEach() --> array method
+// - For ... of
 
-// when a function does not have a name it is an anonymous funtion
-// we can use anonymous funtions when we so not want to call them again (reuse them)
-// callback function when added inline tend to be anonymous
+// When a function does not have a name it is an anonymous funtion
+// We can use anonymous funtions when we so not want to call them again (reuse them)
+// Callback function when added inline tend to be anonymous
 
 staff.forEach(function (item) {
   console.log(item);
@@ -20,8 +20,8 @@ staff.forEach(function (item) {
 //=============================================
 
 // TODO: i want to give the user the foloowing messages: welcome message, their username, missed messages
-// - object --> store users data
-// - function --> one function per task
+// - Object --> store users data
+// - Function --> one function per task
 
 const jack = {
   staffName: "jack",
@@ -41,12 +41,12 @@ function sayMissingMessages(numberOfMessages) {
   console.log(`You have ${numberOfMessages} missed messages`);
 }
 
-// welcomeUser("sam");
-// sayUsername("sam.clark")
-// sayMissedMessages("7");
+// WelcomeUser("sam");
+// SayUsername("sam.clark")
+// SayMissedMessages("7");
 
 //=================================================
-// refactor our code for us to have more control over the three tasks
+// Refactor our code for us to have more control over the three tasks
 
 function enterWebSite(
   welcome,
