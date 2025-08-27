@@ -6,7 +6,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Info
 
-[MDN](https://developer.mozilla.org/en-US/), [W3School](https://www.w3schools.com/), [JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/), [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css), [A11y Project](https://www.a11yproject.com/checklist/), [W3](https://www.w3.org/)
+[MDN](https://developer.mozilla.org/en-US/), [W3School](https://www.w3schools.com/), [JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/), [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css), [A11y Project](https://www.a11yproject.com/checklist/), [W3C](https://www.w3.org/), [Stack Overflow](https://stackoverflow.com/questions)
 
 ##### Copyright Free Media
 

@@ -31,8 +31,6 @@ myArray.myMethod = function (sProperty) {
 myArray.myMethod(); // Prints "zero,one,two"
 myArray.myMethod(1); // Prints "one"
 
-//====================================================
-
 setTimeout(function () {
   myArray.myMethod();
 }, 2.0 * 1000); // Prints "zero,one,two" after 2 seconds
