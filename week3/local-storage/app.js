@@ -11,6 +11,7 @@ const staff = {
 
 // Add new data to local storage
 // STEP 1: We need to turn this data into strings
+// If we do not stringifify, our local storage value will look like this: [object Object]
 
 const stringifiedStaff = JSON.stringify(staff);
 
@@ -32,3 +33,8 @@ const retrievedData = localStorage.getItem("staff");
 // STEP 2: Parse the stringified data to its original shape
 
 JSON.parse(retrievedData);
+
+//====================================
+// Delete local storage
+
+// localStorage.removeItem(item);
