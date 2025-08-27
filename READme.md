@@ -14,7 +14,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Style
 
-[Typescale](https://typescale.com/), [FontPair](https://fontpair.co/category/sans-serif), [Google Fonts](https://fonts.google.com/)
+[Typescale](https://typescale.com/), [FontPair](https://fontpair.co/category/sans-serif), [Google Fonts](https://fonts.google.com/), [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
 
 ##### Learning Games
 
@@ -26,7 +26,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Other
 
-[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer), [Figma](https://www.figma.com/)
+[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Figma](https://www.figma.com/)
 
 ##### Extra Learning
 
