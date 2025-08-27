@@ -1,6 +1,6 @@
 console.log("HELLO!");
 
-// TODO: CLick a button to show text for 5 seconds
+// CLick a button to show text for 5 seconds
 
 // linking HTML with my JS
 const button = document.getElementById("button");
