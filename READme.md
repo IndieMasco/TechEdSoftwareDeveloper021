@@ -12,6 +12,10 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [Unsplash](https://unsplash.com/), [Pixabay](https://pixabay.com/)
 
+##### Style
+
+[Typescale](https://typescale.com/), [FontPair](https://fontpair.co/category/sans-serif), [Google Fonts](https://fonts.google.com/)
+
 ##### Learning Games
 
 [CSS Diner](https://flukeout.github.io/), [Flexbox Froggy](https://flexboxfroggy.com/), [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
@@ -22,7 +26,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Other
 
-[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
+[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer), [Figma](https://www.figma.com/)
 
 ##### Extra Learning
 
