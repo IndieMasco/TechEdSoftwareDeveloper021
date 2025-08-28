@@ -26,7 +26,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### NPM
 
-[NPM JS](https://www.npmjs.com/)
+[NPMJS](https://www.npmjs.com/)
 
 ##### Other
 

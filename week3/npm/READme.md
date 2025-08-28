@@ -63,7 +63,9 @@ npm run dev
 
 <!-- ================================================================== -->
 
-<!-- If I want to use code from a different location in my project, I need to import it
+If I want to use code from a different location in my project, I need to import it
 In this case, we are importing the cowsay package from the node_modules, so we can use it in this app.js file
+
 const cowsay = require("cowsay"); //commonJS
-import cowsay from "cowsay"; //ES6 -->
+
+import cowsay from "cowsay"; //ES6
