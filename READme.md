@@ -30,8 +30,15 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Other
 
-[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Figma](https://www.figma.com/)
+[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit)
 
 ##### Extra Learning
 
 [Codecademy](https://www.codecademy.com/)
+
+##### Wireframe
+
+[Figma](https://www.figma.com/)
+
+- This is a very basic example of a wireframe
+  ![Basic wireframe](wireframes/week3assignment/clickcounter.png)
