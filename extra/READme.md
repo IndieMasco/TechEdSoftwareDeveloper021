@@ -21,7 +21,7 @@
 - They need to accept the invitation before you carry on!
 - Both clone the repo on your computer git clone thelinktoyourrepo
 
-#### CHECKPOINT
+#### Checkpoint
 
 - One person checkout a branch git checkout -b thenameofbranch (-b makes a new branch, checkout puts you ON that branch)
 - That person makes a few changes to the files (whatever you want to do)
