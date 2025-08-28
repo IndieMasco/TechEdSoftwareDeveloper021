@@ -24,6 +24,10 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/), [Free APIs](https://free-apis.github.io/#/)
 
+##### NPM
+
+[NPM JS](https://www.npmjs.com/)
+
 ##### Other
 
 [CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Figma](https://www.figma.com/)
