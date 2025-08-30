@@ -32,3 +32,12 @@
 - Either person can now merge the pull request
 - Both people now run git checkout main and git pull to make sure they have the most up-to-date version.
 - Go back to the CHECKPOINT and begin again, but it’s the other person’s turn now
+
+# Terminal commands
+
+- ~ - Means you're in the 'root' directory/folder
+- ls - 'list' - how you see all the folders/files in your folder.
+- cd foldername - 'change directory' moves you into the folder you've chosen.
+- cd .. - to go back up a level in your folder (go back)
+- mkdir foldername - makes a folder
+- code . - to open folder in vscode
