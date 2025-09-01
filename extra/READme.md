@@ -41,3 +41,11 @@
 - cd .. - to go back up a level in your folder (go back)
 - mkdir foldername - makes a folder
 - code . - to open folder in vscode
+
+# Vite
+
+- Instead of using `npm create vite`, use `npm create vite@latest` as that will use the most up-to-date version of Vite.
+<div align="center">
+
+![Vite](./images/vite.png)
+</div>
