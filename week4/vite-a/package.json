@@ -1,0 +1,26 @@
+{
+  "name": "techedsoftwaredeveloper021",
+  "version": "1.0.0",
+  "description": "This repository contains all the topics I have covered in the Tech Educators software development course.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndieMasco/TechEdSoftwareDeveloper021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IndieMasco/TechEdSoftwareDeveloper021/issues"
+  },
+  "homepage": "https://github.com/IndieMasco/TechEdSoftwareDeveloper021#readme",
+  "dependencies": {
+    "vite": "^7.1.3"
+  },
+  "type": "module"
+}
