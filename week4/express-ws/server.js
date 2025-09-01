@@ -2,10 +2,6 @@ import express from "express";
 
 const app = express();
 
-app.listen(8080, function () {
-  console.log("App is running on port 8080");
-});
-
 // your routes will go here...
 
 // app.listen(3000, function () {
@@ -29,3 +25,25 @@ app.get("/games", function (request, response) {
 })
 
 //=========================================================================
+
+app.post("/example", function (request, response) {
+  response.json("This is the POST end point /example");
+});
+
+app.post("/add", function (request, response) {
+  const num1 = request.body.num1;
+  const num2 = request.body.num2;
+  response.json(num1 + num2);
+});
+
+app.post("/games", function (request, response) {
+  response.json(
+    "I don't do anything, but look, I'm different to the GET /games endpoint"
+  );
+});
+
+//=========================================================================
+
+app.listen(8080, function () {
+  console.log("App is running on port 8080");
+});

@@ -1,10 +1,13 @@
-// Import express from our node_modules
+// import express from our node_modules
 import express from "express";
 
-// Instantiate our express (create an instance of)
+// instantiate our express (create an instance of)
 const app = express();
 
-// Our data (later, we can replace this with information got from a database)
+// make sure our POST endpoint can recieve data in the body
+app.use(express.json());
+
+// our data (later, we can replace this with information got from a database)
 const bananas = [
   { varietal: "Red", taste: "Hot" },
   { varietal: "Cavendish", taste: "Sweet" },
@@ -12,23 +15,42 @@ const bananas = [
   { varietal: "Manzano", taste: "Banana" },
 ];
 
-// Our root endpoint
+// our root endpoint
 app.get("/", function (request, response) {
   response.send("You are looking at my root route. How roude!");
 });
 
-// Bananas endpoint
+// bananas endpoint
 app.get("/bananas", function (request, response) {
   response.json(bananas);
 });
 
-// Random banana endpoint
+// random banana endpoint
 app.get("/random", function (request, response) {
-  const randomBanana = bananas[Math.floor(Math.random() * bananas.length)]; // Returns a single item from the array
+  const randomBanana = bananas[Math.floor(Math.random() * bananas.length)]; // returns a single item from the array
   response.json(randomBanana);
 });
 
-// Start our server
+// basic POST endpoint
+app.post("/example", function (request, response) {
+  response.json("This is the POST end point /example");
+});
+
+// a POST endpoint that accepts data in the body
+app.post("/add", function (request, response) {
+  const num1 = request.body.num1;
+  const num2 = request.body.num2;
+  response.json(num1 + num2);
+});
+
+// GET and POST endpoints can share a name, so long as the METHOD is different
+app.post("/bananas", function (request, response) {
+  response.json(
+    "I don't do anything, but look, I'm different to the GET /bananas endpoint"
+  );
+});
+
+// start our server
 app.listen(8080, function () {
   console.log("App is running on port 8080");
 });
