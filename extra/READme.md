@@ -47,3 +47,10 @@
 
 ![Vite](./images/vite.png)
 </div>
+
+# CRUD - HTTP Method
+
+- Create - POST
+- Read - GET
+- Update - PUT
+- Delete - DELETE
