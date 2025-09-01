@@ -26,7 +26,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### NPM
 
-[NPMJS](https://www.npmjs.com/)
+[NPMJS](https://www.npmjs.com/), [vite](https://vite.dev/)
 
 ##### Testing
 
@@ -34,7 +34,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Other
 
-[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Figma](https://www.figma.com/)
+[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Figma](https://www.figma.com/), [TinyPNG](https://tinypng.com/)
 
 ##### Extra Learning
 
