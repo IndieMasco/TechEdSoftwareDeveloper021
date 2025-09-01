@@ -26,7 +26,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### NPM
 
-[NPMJS](https://www.npmjs.com/), [vite](https://vite.dev/)
+[NPMJS](https://www.npmjs.com/), [Vite](https://vite.dev/)
 
 ##### Testing
 
