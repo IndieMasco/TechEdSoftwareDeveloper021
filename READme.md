@@ -24,9 +24,13 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/), [Free APIs](https://free-apis.github.io/#/)
 
-##### NPM
+##### Packages
 
 [NPMJS](https://www.npmjs.com/), [Vite](https://vite.dev/)
+
+##### Server and Database
+
+[Render](https://render.com/), [SupaBase](https://supabase.com/)
 
 ##### Testing
 
@@ -34,7 +38,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Other
 
-[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Figma](https://www.figma.com/), [READme cheat sheet](https://www.markdownguide.org/cheat-sheet/), [Render](https://render.com/)
+[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Figma](https://www.figma.com/), [READme cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ##### Extra Learning
 
