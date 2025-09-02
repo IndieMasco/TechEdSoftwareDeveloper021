@@ -26,7 +26,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Packages
 
-[NPMJS](https://www.npmjs.com/), [Vite](https://vite.dev/)
+[NPMJS](https://www.npmjs.com/), [Vite](https://vite.dev/), [express](https://www.npmjs.com/package/express)
 
 ##### Server and Database
 
@@ -43,3 +43,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 ##### Extra Learning
 
 [Codecademy](https://www.codecademy.com/)
+
+##### VSCode Extensions
+
+[Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula), [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons), [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow), [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments), [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens), [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl), [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss), [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), [Postman](https://www.postman.com/)
