@@ -1,4 +1,4 @@
-# Basic SOL queries
+# Basic SQL Queries
 
 #### Create a table
 - Constraints: dtat type that we want to store in each column
