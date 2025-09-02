@@ -5,13 +5,13 @@
 - TEXT & VARCHAR(255) are the same thing but for VARCHAR(255) the number puts a limit on how many characters can ve out in
 - is column: represent each entry uniquely (PRIMARY KEY)
 
-`CREATE TABLE staff (`
-`  id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,`
-`  name TEXT,`
-`  location VARCHAR(255),`
-`  age INT,`
-`  role VARCHAR(255)`
-`);`
+`CREATE TABLE staff (
+  id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+  name TEXT,
+  location VARCHAR(255),
+  age INT,
+  role VARCHAR(255)
+);`
 
 #### Add new data to the table
 
