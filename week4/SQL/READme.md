@@ -15,10 +15,10 @@
 
 #### Add new data to the table
 
-`INSERT INTO staff (name, location, age, role)`
-`VALUES ('JOE','Norwich', 78, 'TA'),`
-`('Manny', 'Norwich', 50, 'Instructpr'),`
-`('Tim', 'Norwich', 102, 'Course Director')`
+`INSERT INTO staff (name, location, age, role)
+VALUES ('JOE','Norwich', 78, 'TA'),
+('Manny', 'Norwich', 50, 'Instructpr'),
+('Tim', 'Norwich', 102, 'Course Director')`
 
 #### Select some data from my table
 
