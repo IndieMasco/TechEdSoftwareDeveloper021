@@ -34,7 +34,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Other
 
-[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Figma](https://www.figma.com/), [READme cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+[CSS Reset](https://jgthms.com/minireset.css/), [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit), [Figma](https://www.figma.com/), [READme cheat sheet](https://www.markdownguide.org/cheat-sheet/), [Render](https://render.com/)
 
 ##### Extra Learning
 
