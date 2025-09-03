@@ -60,10 +60,10 @@ import { db } from "./dbConnection.js";`
 app.use(cors());
 app.use(express.json());`
 
-`const PORT = 8080;
+` const PORT = 8080;
 app.listen(PORT, function () {
-  console.info(` Server is running in port ${PORT}`);
-});`
+  console.info(`` Server is running in port ${PORT}``);
+}); `
 
 `app.get("/", function (req, res) {
   res.json({ message: "Welcome to the server. GET comfy" });
