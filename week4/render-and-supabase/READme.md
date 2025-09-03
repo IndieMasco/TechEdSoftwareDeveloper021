@@ -52,7 +52,7 @@
 
 - Step 2 - within the server.js file you will want to add
 
-```
+```javascript
 import express from "express";
 import cors from "cors";
 import { db } from "./dbConnection.js";
