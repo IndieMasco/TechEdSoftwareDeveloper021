@@ -6,19 +6,19 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Info
 
-[MDN](https://developer.mozilla.org/en-US/) , [W3School](https://www.w3schools.com/) , [JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/) , [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css) , [A11y Project](https://www.a11yproject.com/checklist/) , [W3C](https://www.w3.org/) , [Stack Overflow](https://stackoverflow.com/questions)
+[MDN](https://developer.mozilla.org/en-US/) , [W3School](https://www.w3schools.com/) , [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css) , [A11y Project](https://www.a11yproject.com/checklist/) , [W3C](https://www.w3.org/) , [Stack Overflow](https://stackoverflow.com/questions)
 
-##### Copyright Free Media (Images, videos, Music)
+##### Cheat Sheets
 
-[Unsplash](https://unsplash.com/) , [Pixabay](https://pixabay.com/)
+[JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/) , [HTML, CSS, JS](https://htmlcheatsheet.com/) , [SQL](https://www.sqltutorial.org/sql-cheat-sheet/) , [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet) , [READme](https://www.markdownguide.org/cheat-sheet/)
 
 ##### Style
 
 [Typescale](https://typescale.com/) , [FontPair](https://fontpair.co/category/sans-serif) , [Google Fonts](https://fonts.google.com/) , [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [TinyPNG](https://tinypng.com/)
 
-##### Learning Games
+##### Copyright Free Media (Images, videos, Music)
 
-[CSS Diner](https://flukeout.github.io/) , [Flexbox Froggy](https://flexboxfroggy.com/) , [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
+[Unsplash](https://unsplash.com/) , [Pixabay](https://pixabay.com/)
 
 ##### API
 
@@ -34,15 +34,19 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Testing
 
-[Vitest](https://vitest.dev/) , [Jest](https://jestjs.io/)
+[Vitest](https://vitest.dev/) , [Jest](https://jestjs.io/) , [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit)
 
 ##### Other
 
-[CSS Reset](https://jgthms.com/minireset.css/) , [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit) , [Figma](https://www.figma.com/) , [READme cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+[CSS Reset](https://jgthms.com/minireset.css/) , [Figma](https://www.figma.com/)
 
 ##### Extra Learning
 
-[Codecademy](https://www.codecademy.com/)
+[Codecademy](https://www.codecademy.com/) , [CodePen](https://codepen.io/)
+
+##### Learning Games
+
+[CSS Diner](https://flukeout.github.io/) , [Flexbox Froggy](https://flexboxfroggy.com/) , [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
 
 ##### VSCode Extensions
 
