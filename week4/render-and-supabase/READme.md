@@ -76,7 +76,7 @@ app.get("/", function (req, res) {
 });
 ```
 
-- Step 3 - Withing the .gitignore file you will want to add
+- Step 3 - Within the .gitignore file you will want to add
   - node_modules
   - .env
 
@@ -144,7 +144,7 @@ app.get("/", function (req, res) {
 
   - We are going to edit some of the files within the server folder to connect supabase
 
-- Step 4 - Withing the dbConnection.js file you will want to add
+- Step 4 - Within the dbConnection.js file you will want to add
 
 ```javascript
 import pg from "pg";
@@ -159,7 +159,7 @@ export const db = new pg.Pool({
 });
 ```
 
-- Step 5 - Withing the .env file you will want to add
+- Step 5 - Within the .env file you will want to add
 
   - DATABASE_URL= (**LOOK AT STEP 6**)
   - DATABASE_PASSWORD= (This will be the password you let supabase generate for you)
