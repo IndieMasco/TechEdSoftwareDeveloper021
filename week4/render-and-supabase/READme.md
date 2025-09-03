@@ -53,7 +53,8 @@
 - Step 2 - withing the server.js file you will want to add
   - On the line where it says --> Server is running in port ${PORT} <-- it should only have one ` each side of it, it shows two each side because of how the READme file works
 
-````import express from "express";
+```
+import express from "express";
 import cors from "cors";
 import { db } from "./dbConnection.js";
 
@@ -68,7 +69,8 @@ app.listen(PORT, function () {
 
 app.get("/", function (req, res) {
   res.json({ message: "Welcome to the server. GET comfy" });
-});```
+});
+```
 
 - Step 3 - Withing the .gitignore file you will want to add
   - node_modules
@@ -102,4 +104,7 @@ app.get("/", function (req, res) {
 
 - Confirm the client and server are connected
   - Visit the URL of your client app, and open the developer tools. You should see the client is making requests to the server, and getting responses.
-````
+
+```
+
+```
