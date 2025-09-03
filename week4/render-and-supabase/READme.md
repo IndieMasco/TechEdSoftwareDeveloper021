@@ -77,7 +77,7 @@ app.get("/", function (req, res) {
 
 ## Pushing to GitHub
 
-- Step 1 - Go to [GitHub](https://github.com/) and make an empty repo
+- Step 1 - Go to [GitHub](https://github.com/) and make an empty repo **DO NOT ADD A READme FILE**
 
 ## Render
 
