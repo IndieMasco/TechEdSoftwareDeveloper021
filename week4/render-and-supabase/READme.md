@@ -103,7 +103,3 @@ app.get("/", function (req, res) {
 
 - Confirm the client and server are connected
   - Visit the URL of your client app, and open the developer tools. You should see the client is making requests to the server, and getting responses.
-
-```
-
-```
