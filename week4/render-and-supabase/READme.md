@@ -51,7 +51,6 @@
   - `"type": "module"` at the bottom between the last two `}`
 
 - Step 2 - withing the server.js file you will want to add
-  - On the line where it says --> Server is running in port ${PORT} <-- it should only have one ` each side of it, it shows two each side because of how the READme file works
 
 ```
 import express from "express";
