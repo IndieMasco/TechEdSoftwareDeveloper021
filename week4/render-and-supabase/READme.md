@@ -6,7 +6,10 @@
 
 ## Client and server set-up within the terminal (Ubuntu)
 
-- Step 1 - Make a parent folder for the client and server `mkdir (name of parent folder)` , `cd (name of parent folder)`
+- Step 1 - Make a parent folder for the client and server
+
+  - `mkdir (name of parent folder)`
+  - `cd (name of parent folder)`
 
 - Step 2 - Once your within the parent folder
 
