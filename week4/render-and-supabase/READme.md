@@ -55,20 +55,20 @@
 
 ````import express from "express";
 import cors from "cors";
-import { db } from "./dbConnection.js";```
+import { db } from "./dbConnection.js";
 
-`const app = express();`
-`app.use(cors());`
-`app.use(express.json());`
+const app = express();
+app.use(cors());
+app.use(express.json());
 
-` const PORT = 8080;`
-`app.listen(PORT, function () {`
-`  console.info(`` Server is running in port ${PORT}``);`
-`}); `
+const PORT = 8080;
+app.listen(PORT, function () {
+  console.info(` Server is running in port ${PORT}`);
+});
 
-`app.get("/", function (req, res) {`
-`  res.json({ message: "Welcome to the server. GET comfy" });`
-`});`
+app.get("/", function (req, res) {
+  res.json({ message: "Welcome to the server. GET comfy" });
+});```
 
 - Step 3 - Withing the .gitignore file you will want to add
   - node_modules
