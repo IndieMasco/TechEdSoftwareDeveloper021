@@ -8,14 +8,15 @@
 
 - Step 1 - Make a parent folder for the client and server `mkdir (name of parent folder)` , `cd (name of parent folder)`
 
-- Step 2 - Once your within the parent folder `npm create vite@(what version you are using)` or `npm create vite@latest`
+- Step 2 - Once your within the parent folder
 
+  - `npm create vite@(what version you are using)` or `npm create vite@latest`
   - You can use `node -v` to check what version you are using
 
 - Step 3 - Follow the steps in the terminal
 
   - Project name: client
-  - Select a framework: Vinilla
+  - Select a framework: Vanilla
   - Select a variant: JavaScript
 
 - Step 4 - Follow the steps in the terminal
@@ -35,22 +36,23 @@
 
 - Step 7 - Now that your in your server folder
 
-  - `npm init -y` this creates your package.JSON
+  - `npm init -y` this creates your package.json
   - `npm i express cors Dotenv PG` this will install all 4 packages you will need within your server folder
   - `touch server.js dbConnection.js .env .gitignore` this will create the extra files you will need
 
 - Step 8 - Now you will want to `cd ..` back into the parent folder and open it within VSCode `code .`
+
   - Once your in VSCode all you should see is your client and server folders you made
-  - Make a READme.md file
+  - Make a READme.md file in the parent folder
 
 ## Server set-up within VSCode
 
 - Step 1 - Within the package.json file you will want to add
 
-  - `"dev: "node --watch server"` within `"scripts`
+  - `"dev: "node --watch server"` within `"scripts"`
   - `"type": "module"` at the bottom between the last two `}`
 
-- Step 2 - WSithin the server.js file you will want to add
+- Step 2 - Within the server.js file you will want to add
 
 ```javascript
 import express from "express";
