@@ -103,7 +103,7 @@ app.get("/", function (req, res) {
 
 - Create a render.com account
 
-  - Go to Render.com and sign up for a new account. It might be easiest to log in with your Github account.
+  - Go to [Render](https://render.com/) and sign up for a new account. It might be easiest to log in with your Github account.
 
 - Deploy the server as a Node.js app
 
@@ -127,3 +127,46 @@ app.get("/", function (req, res) {
 
 - Confirm the client and server are connected
   - Visit the URL of your client app, and open the developer tools. You should see the client is making requests to the server, and getting responses.
+
+## SupaBase
+
+- Step 1 - Go to [SupaBase](https://supabase.com/) and create an account
+
+- Step 2 - You will want to create a new project
+
+  - Click the **new project** button
+  - Project name: name of parent folder or what ever you want
+  - Datebase password: let it generate a password for you
+  - Region: the closest one to you
+  - Click create new project
+
+- Step 3 - Open your parent folder in VSCode
+
+  - We are going to edit some of the files within the server folder to connect supabase
+
+- Step 4 - Withing the dbConnection.js file you will want to add
+
+```javascript
+import pg from "pg";
+import dotenv from "dotenv";
+
+dotenv.config();
+
+const dbConnectionString = process.env.DATABASE_URL;
+
+export const db = new pg.Pool({
+  connectionString: dbConnectionString,
+});
+```
+
+- Step 5 - Withing the .env file you will want to add
+
+  - DATABASE_URL= (**LOOK AT STEP 6**)
+  - DATABASE_PASSWORD= (This will be the password you let supabase generate for you)
+
+- Step 6 - To get the URL you need youll need to go to the project you made on supabase
+
+  - Once your in yout project at the top there should be a button call **Connect** click it
+  - Scroll down till you see Transaction pooler
+  - You will want to copy the URL and paste it next to DATABASE_URL=
+  - Within the URL you will have --> [YOUR-PASSWORD] <-- you will want to replace it with the generate a password
