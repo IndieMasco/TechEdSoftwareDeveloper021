@@ -79,6 +79,21 @@ app.get("/", function (req, res) {
 
 - Step 1 - Go to [GitHub](https://github.com/) and make an empty repo **DO NOT ADD A READme FILE**
 
+  - Name the repo the same as your parent folder
+
+- Step 2 - Go to your terminal (Ubuntu) and `cd` into your parent folder for the client and server
+
+- Step 3 - Now that your within your parent folder we are going to push to are empty repo
+
+  - `git init`
+  - `git remote add origin git@github.com:(YourUserName)/(NameOfRepo).git` you can get this within the empty repo
+  - `git add .`
+  - `git commit -m "set up client and server"`
+  - `git push`
+  - `git push --set-upstream origin main` this will show up in the terminal after you have done `git push` so you can just copy and paste it
+
+- Step 4 - Everything should now be push into your empty repo
+
 ## Render
 
 - Create a render.com account
