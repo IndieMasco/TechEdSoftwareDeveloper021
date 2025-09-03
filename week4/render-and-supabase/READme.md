@@ -12,19 +12,19 @@
 
   - You can use `node -v` to check what version you are using
 
-- Step 3 - follow the steps in the terminal
+- Step 3 - Follow the steps in the terminal
 
   - Project name: client
   - Select a framework: Vinilla
   - Select a variant: JavaScript
 
-- Step 4 - follow the steps in the terminal
+- Step 4 - Follow the steps in the terminal
 
   - `cd client`
   - `npm install` wait for it to be done
   - `npm run dev`
   - It will then give you a localhost URL so you can check if it worked
-  - Once you've check its working go back into the terminal and use **ctrl+c** to stop the localhost
+  - Once you've check its working go back into the terminal and use **CTRL+C** to stop the localhost
 
 - Step 5 - `cd ..` back into the parent folder so your in (name of parent folder)
 
@@ -39,7 +39,7 @@
   - `npm i express cors Dotenv PG` this will install all 4 packages you will need within your server folder
   - `touch server.js dbConnection.js .env .gitignore` this will create the extra files you will need
 
-- Step 8 - now you will want to `cd ..` back into the parent folder and open it within VSCode `code .`
+- Step 8 - Now you will want to `cd ..` back into the parent folder and open it within VSCode `code .`
   - Once your in VSCode all you should see is your client and server folders you made
   - Make a READme.md file
 
@@ -50,7 +50,7 @@
   - `"dev: "node --watch server"` within `"scripts`
   - `"type": "module"` at the bottom between the last two `}`
 
-- Step 2 - within the server.js file you will want to add
+- Step 2 - WSithin the server.js file you will want to add
 
 ```javascript
 import express from "express";
@@ -74,6 +74,10 @@ app.get("/", function (req, res) {
 - Step 3 - Withing the .gitignore file you will want to add
   - node_modules
   - .env
+
+## Pushing to GitHub
+
+- Step 1 - Go to [GitHub](https://github.com/) and make an empty repo
 
 ## Render
 
