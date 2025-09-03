@@ -164,7 +164,7 @@ export const db = new pg.Pool({
   - DATABASE_URL= (**LOOK AT STEP 6**)
   - DATABASE_PASSWORD= (This will be the password you let supabase generate for you)
 
-- Step 6 - To get the URL you need youll need to go to the project you made on supabase
+- Step 6 - To get the URL youll need to go to the project you made on supabase
 
   - Once your in yout project at the top there should be a button call **Connect** click it
   - Scroll down till you see Transaction pooler
