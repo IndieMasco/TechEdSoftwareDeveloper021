@@ -50,7 +50,7 @@
   - `"dev: "node --watch server"` within `"scripts`
   - `"type": "module"` at the bottom between the last two `}`
 
-- Step 2 - withing the server.js file you will want to add
+- Step 2 - within the server.js file you will want to add
 
 ```
 import express from "express";
