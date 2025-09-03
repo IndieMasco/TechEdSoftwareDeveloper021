@@ -130,7 +130,7 @@ app.get("/", function (req, res) {
 
 ## SupaBase
 
-- Step 1 - Go to [SupaBase](https://supabase.com/) and create an account
+- Step 1 - Go to [SupaBase](https://supabase.com/) and sign up for a new account. It might be easiest to log in with your Github account.
 
 - Step 2 - You will want to create a new project
 
