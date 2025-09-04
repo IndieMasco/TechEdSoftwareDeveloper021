@@ -140,6 +140,7 @@ app.get("/", function (req, res) {
   - Database password: Let it generate a password for you
   - Region: The closest one to you
   - Click Create New Project
+  - You'll only need to do this part (Step 2) once to create a project (database), then you can store all your tables in it
 
 - Step 3 - Open your parent folder in VSCode
 
