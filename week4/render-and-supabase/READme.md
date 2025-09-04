@@ -146,7 +146,14 @@ app.get("/", function (req, res) {
 
   - We're going to edit some of the files within the server folder to connect to Supabase
 
-- Step 4 - Within the dbConnection.js file, you'll want to add
+- Step 4 - Within the server.js file, you'll want to add
+  - Add it at the top with the other imports you have already done
+
+```javascript
+import { db } from "./dbConnection.js";
+```
+
+- Step 5 - Within the dbConnection.js file, you'll want to add
 
 ```javascript
 import pg from "pg";
@@ -161,12 +168,12 @@ export const db = new pg.Pool({
 });
 ```
 
-- Step 5 - Within the .env file, you'll want to add
+- Step 6 - Within the .env file, you'll want to add
 
-  - DATABASE_URL= (**LOOK AT STEP 6**)
+  - DATABASE_URL= (**LOOK AT STEP 7**)
   - DATABASE_PASSWORD= (This will be the password you let Supabase generate for you)
 
-- Step 6 - To get the URL you'll need, go to the project you made on Supabase
+- Step 7 - To get the URL you'll need, go to the project you made on Supabase
 
   - Once you're in your project, click the button at the top called **Connect**
   - Scroll down until you see Transaction Pooler
