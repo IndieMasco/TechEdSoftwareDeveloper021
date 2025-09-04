@@ -146,7 +146,7 @@ app.get("/", function (req, res) {
   - We're going to edit some of the files within the server folder to connect to Supabase
 
 - Step 4 - Within the server.js file, you'll want to add
-  - Add it at the top with the other imports you have already done
+  - Add this line of code to the top where you have your other imports
 
 ```javascript
 import { db } from "./dbConnection.js";
