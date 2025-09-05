@@ -46,6 +46,7 @@
 <div align="center">
 
 ![Vite](./images/vite.png)
+
 </div>
 
 # CRUD - HTTP Method
@@ -54,3 +55,20 @@
 - Read - GET
 - Update - PUT
 - Delete - DELETE
+
+# Using packages on two pc
+
+When you clone a repository that uses a .gitignore file, the ignored files, such as the node_modules folder, aren't included in the clone. To get your project working on your second PC, you need to reinstall these dependencies. The simplest way to do this is by using the package manager you used on your first PC, like npm or yarn.
+
+#### Reinstalling Node.js Dependencies
+
+To get your project running on your new computer, follow these simple steps:
+
+- Open a terminal or command prompt within the project directory on your second PC. You can do this directly in VS Code by going to Terminal > New Terminal.
+
+- Run the appropriate command for your package manager.
+
+  - If you used npm, run: npm install
+  - If you used yarn, run: yarn install
+
+This command will read the package.json file in your project, which lists all the necessary dependencies. It then downloads and installs them into a new node_modules folder, setting up your project just as it was on your first computer.
