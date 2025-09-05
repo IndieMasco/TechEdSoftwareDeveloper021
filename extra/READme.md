@@ -40,15 +40,6 @@
 - mkdir foldername - makes a folder
 - code . - to open folder in vscode
 
-# Vite
-
-- Instead of using `npm create vite`, use `npm create vite@latest` as that will use the most up-to-date version of Vite.
-<div align="center">
-
-![Vite](./images/vite.png)
-
-</div>
-
 # CRUD - HTTP Method
 
 - Create - POST
