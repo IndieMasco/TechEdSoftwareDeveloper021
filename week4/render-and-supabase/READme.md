@@ -171,3 +171,12 @@ export const db = new pg.Pool({
   - Scroll down until you see Transaction Pooler
   - You'll want to copy the URL and paste it next to DATABASE_URL=
   - Within the URL, you'll have --> [YOUR-PASSWORD] <-- you'll want to replace that placeholder with the password you generated.
+
+- Step 7 - OPTIONAL - Sometimes it helps to reset your password if you're running into issues with your project (database) not working
+
+  - Go to Supabase and navigate into your project (database)
+  - On the menu on your left, click Project Settings
+  - A new menu will now appear on the left. Within Configuration, click Database
+  - Now on the main page, there should be an option to Reset Database Password. Click it
+  - Let it generate a password, copy it, and click Reset Password
+  - You're all set! Now go back to Step 5 and follow the steps

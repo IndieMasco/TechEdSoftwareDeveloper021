@@ -55,7 +55,7 @@ When you clone a repository that uses a .gitignore file, the ignored files, such
 
 To get your project running on your new computer, follow these simple steps:
 
-- Open a terminal or command prompt within the project directory on your second PC. You can do this directly in VS Code by going to Terminal > New Terminal.
+- Open a terminal within the project directory (the folder you installed packages to) on your second PC. You can do this directly in VS Code by going to Terminal > New Terminal.
 
 - Run the appropriate command for your package manager.
 
