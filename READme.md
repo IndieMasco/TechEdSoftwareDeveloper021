@@ -36,6 +36,10 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [Vitest](https://vitest.dev/) , [Jest](https://jestjs.io/) , [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit)
 
+##### favicon.ico
+
+[Favicon generator](https://favicon.io/favicon-generator/) , [Convert to ico](https://image.online-convert.com/convert-to-ico)
+
 ##### Other
 
 [CSS Reset](https://jgthms.com/minireset.css/) , [Figma](https://www.figma.com/)
