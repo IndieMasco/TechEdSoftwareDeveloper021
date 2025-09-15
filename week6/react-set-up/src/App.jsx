@@ -1,7 +1,10 @@
 import "./App.css";
 
 function App() {
-  const welcomeMessage = "Welcome to react";
+  //JS
+  const welcomeMessage = "Welcome to React!";
+
+  //HTML
   return (
     <>
       <div>
@@ -14,5 +17,6 @@ function App() {
   );
 }
 
-// When we are writting components, we will only export ONE element --> component function
+//when we are writing components, we will only export ONE element --> component function
+//we add the default keyword to our export to make sure we just export this function (App)
 export default App;
