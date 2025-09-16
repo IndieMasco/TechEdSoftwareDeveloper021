@@ -12,6 +12,8 @@ export default function MainSection(props) {
   );
 }
 
+// YOU COULD ALSO DO IT THIS WAY
+
 // props {
 //   source: "",
 //   altText: "",

@@ -1,0 +1,7 @@
+/* I am going to use this file to style my Header.jsx components */
+
+/* When our app gets more complex, we need to style out elements in a more targeted way --> pure selectors (className, id) */
+
+.main-header {
+  background-color: greenyellow;
+}

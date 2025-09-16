@@ -14,7 +14,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Style
 
-[Typescale](https://typescale.com/) , [FontPair](https://fontpair.co/category/sans-serif) , [Google Fonts](https://fonts.google.com/) , [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [TinyPNG](https://tinypng.com/)
+[Typescale](https://typescale.com/) , [FontPair](https://fontpair.co/category/sans-serif) , [Google Fonts](https://fonts.google.com/) , [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [TinyPNG](https://tinypng.com/) , [TailwindCSS](https://tailwindcss.com/)
 
 ##### Copyright Free Media (Images, videos, Music)
 

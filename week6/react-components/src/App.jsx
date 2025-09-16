@@ -9,6 +9,7 @@ import MainSection from "./components/MainSection";
 import Footer from "./components/Footer";
 
 export default function app() {
+  const data = "home";
   // JS logic
 
   return (
@@ -16,7 +17,7 @@ export default function app() {
     // Fragment --> it's an empty HTML tag that we use for nesting purposes
     <>
       {/* We nest components as self-closing elements */}
-      <Header />
+      <Header data={data} />
       <h1>Welcome!</h1>
       <main>
         {/* We add props in the samw ay as we did attribu */}

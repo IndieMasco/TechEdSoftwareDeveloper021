@@ -1,7 +1,18 @@
-/* The :root pseudo-class targets the root of your project */
-
+/* Tell CSS to activate Tailwind */
+@import "tailwindcss";
+/* The :root pseudo-class targets the root of your project --> <html> */
+/* CSS Variables: Variables to store style values that we can reuse */
 :root {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  /* Declare a variable in the root --> This is not styling anything yet */
+  --bg-colour: turquoise;
+  --main-font: monospace;
+}
+
+body {
+  /* Use the var() to sue a CSS variable */
+  background-color: var(--bg-colour);
+  font-family: var(--main-font);
 }

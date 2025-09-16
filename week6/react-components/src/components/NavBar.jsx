@@ -1,8 +1,10 @@
-export default function NavBar() {
+export default function NavBar({ data }) {
   return (
     <>
-      <nav>
-        <a href="#">Home</a>
+      <nav className="flex flex-col items-center">
+        <a href="#" className="bg-amber-600 text-[20px]">
+          {data}
+        </a>
         <a href="#">About</a>
         <a href="#">Contact</a>
       </nav>
