@@ -1,5 +1,5 @@
 import NavBar from "./NavBar";
-// Import your components
+// Import your component stylesheet
 import "./Header.css";
 
 export default function Header({ data }) {
