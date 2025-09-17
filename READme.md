@@ -42,7 +42,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Other
 
-[CSS Reset](https://jgthms.com/minireset.css/) , [Figma](https://www.figma.com/)
+[CSS Reset](https://jgthms.com/minireset.css/) , [Figma](https://www.figma.com/) , [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 ##### Extra Learning
 
