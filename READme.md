@@ -22,7 +22,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### API
 
-[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [Free APIs](https://free-apis.github.io/#/) , [Recipes](https://dummyjson.com/recipes)
+[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [Free APIs](https://free-apis.github.io/#/) , [DummyJson](https://dummyjson.com/) , [Recipes](https://dummyjson.com/recipes)
 
 ##### Packages
 
