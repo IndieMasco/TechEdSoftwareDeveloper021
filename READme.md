@@ -22,7 +22,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### API
 
-[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [Free APIs](https://free-apis.github.io/#/)
+[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [Free APIs](https://free-apis.github.io/#/) , [Recipes](https://dummyjson.com/recipes)
 
 ##### Packages
 
@@ -40,17 +40,17 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [Favicon generator](https://favicon.io/favicon-generator/) , [Convert to ico](https://image.online-convert.com/convert-to-ico)
 
-##### Other
+##### Google extensions
 
-[CSS Reset](https://jgthms.com/minireset.css/) , [Figma](https://www.figma.com/) , [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) , [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 
 ##### Extra Learning
 
-[Codecademy](https://www.codecademy.com/) , [CodePen](https://codepen.io/)
+[Codecademy](https://www.codecademy.com/) , [CodePen](https://codepen.io/) , [CSS Diner](https://flukeout.github.io/) , [Flexbox Froggy](https://flexboxfroggy.com/) , [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
 
-##### Learning Games
+##### Other
 
-[CSS Diner](https://flukeout.github.io/) , [Flexbox Froggy](https://flexboxfroggy.com/) , [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
+[CSS Reset](https://jgthms.com/minireset.css/) , [Figma](https://www.figma.com/)
 
 ##### VSCode Extensions
 
