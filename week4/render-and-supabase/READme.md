@@ -128,6 +128,9 @@ app.get("/", function (req, res) {
 - Confirm the client and server are connected
   - Visit the URL of your client app, and open the developer tools. You should see the client is making requests to the server, and getting responses.
 
+- Environment Variables
+  - DON'T FORGET - If you're wondering why nothing is showing, make sure you have put any links you have used in your `.env` file into the Environment Variables on the client side.
+
 ## SupaBase
 
 - Step 1 - Go to [SupaBase](https://supabase.com/) and sign up for a new account. It might be easiest to log in with your Github account.
