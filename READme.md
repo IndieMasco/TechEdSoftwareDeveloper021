@@ -26,7 +26,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ##### Packages
 
-[NPMJS](https://www.npmjs.com/) , [Vite](https://vite.dev/) , [express](https://www.npmjs.com/package/express)
+[NPMJS](https://www.npmjs.com/) , [Vite](https://vite.dev/) , [express](https://www.npmjs.com/package/express) , [React router](https://reactrouter.com/home)
 
 ##### Server and Database
 
