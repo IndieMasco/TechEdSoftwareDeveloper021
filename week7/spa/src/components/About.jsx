@@ -1,3 +1,5 @@
+import { Outlet, Link } from "react-router";
+
 export default function About() {
   return (
     <>
@@ -7,6 +9,9 @@ export default function About() {
         numquam reprehenderit quam fuga illum, odio, nostrum blanditiis aliquid
         eos asperiores quos? Velit, officia temporibus!
       </p>
+      {/* this Outlet here represents CompanyInfo, but it only shows when the user navigates to /about/company-info */}
+      <Outlet />
+      <Link to={"/about/company-info"}>Company Info</Link>
     </>
   );
 }
