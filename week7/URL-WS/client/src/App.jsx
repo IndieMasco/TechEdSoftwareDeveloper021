@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router";
 import UserPage from "./components/UserPage";
 import Likes from "./components/Likes";
 import Posts from "./components/Posts";
-import Games from "./components/Games";
+import Test from "./components/test";
 
 export default function App() {
   return (
@@ -15,7 +15,7 @@ export default function App() {
             <Route path="posts" element={<Posts />} />
             <Route path="likes" element={<Likes />} />
           </Route>
-          <Route path="/games" element={<Games />} />
+          <Route path="/games" element={<Test />} />
         </Routes>
       </BrowserRouter>
     </>

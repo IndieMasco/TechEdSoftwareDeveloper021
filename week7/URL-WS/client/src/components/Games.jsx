@@ -1,31 +1,24 @@
-// import React from "react";
 import { useSearchParams } from "react-router";
 import { games } from "../lib/games";
+import SortGameOrder from "./SortGameOrder";
 
-export default function SortOrderForm() {
-  const [searchParams, setSearchParams] = useSearchParams();
+export default function GameCollection() {
+  const [queryString] = useSearchParams();
 
-  const handleChange = (event) => {
-    setSearchParams({ sort: event.target.value });
-  };
+  const sort = queryString.get("sort");
 
+  if (sort === "asc") {
+    games.sort();
+  } else if (sort === "desc") {
+    games.sort().reverse();
+  } else if (sort === "low") {
+    //
+  }
   return (
     <>
-      <form>
-        <label>
-          Sort by:
-          <select
-            value={searchParams.get("sort") || ""}
-            onChange={handleChange}
-          >
-            <option value="">Select...</option>
-            <option value="asc">Ascending</option>
-            <option value="desc">Descending</option>
-          </select>
-        </label>
-      </form>
+      <SortGameOrder />
       {games.map((games) => {
-        return <h2>{games}</h2>;
+        return <p>{games}</p>;
       })}
     </>
   );
