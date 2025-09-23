@@ -30,10 +30,6 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
   - [CSS Diner](https://flukeout.github.io/) , [Flexbox Froggy](https://flexboxfroggy.com/) , [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
 
-##### favicon.ico
-
-[Favicon generator](https://favicon.io/favicon-generator/) , [Convert to ico](https://image.online-convert.com/convert-to-ico)
-
 ##### Google extensions
 
 [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) , [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) , [JSON Pretty](https://chromewebstore.google.com/detail/json-pretty/nflbalmkceonkkhifbifebanhladdgcp)
@@ -50,15 +46,19 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [Render](https://render.com/)
 
-##### Style
-
-- Font
-
-  - [Typescale](https://typescale.com/) , [FontPair](https://fontpair.co/category/sans-serif) , [Google Fonts](https://fonts.google.com/)
+##### Styling
 
 - Colors
 
   - [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [coolors](https://coolors.co/palette/220901-621708-941b0c-bc3908-f6aa1c)
+
+- favicon.ico
+
+  - [Favicon generator](https://favicon.io/favicon-generator/) , [Convert to ico](https://image.online-convert.com/convert-to-ico)
+
+- Font
+
+  - [Typescale](https://typescale.com/) , [FontPair](https://fontpair.co/category/sans-serif) , [Google Fonts](https://fonts.google.com/)
 
 - Icons
 
