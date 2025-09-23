@@ -4,6 +4,8 @@
 
 [Repo](https://github.com/IndieMasco/monorepo)
 
+## THINGS HAVE BEEN UPDATED SINCE WRITING THIS SETUP SO THIS GUIDE ISN'T UP TO DATE.
+
 ## Client and server set-up within the terminal (Ubuntu)
 
 - Step 1 - Make a parent folder for the client and server
@@ -126,6 +128,7 @@ app.get("/", function (req, res) {
   - Visit that URL in your browser, and you should be able to see your website.
 
 - Confirm the client and server are connected
+
   - Visit the URL of your client app, and open the developer tools. You should see the client is making requests to the server, and getting responses.
 
 - Environment Variables
