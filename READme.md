@@ -4,11 +4,11 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ## External Sources
 
-##### API
+### API
 
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [Free APIs](https://free-apis.github.io/#/) , [DummyJson](https://dummyjson.com/) , [Recipes](https://dummyjson.com/recipes)
 
-##### Cheat Sheets
+### Cheat Sheets
 
 [JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/) , [HTML, CSS, JS](https://htmlcheatsheet.com/) , [SQL](https://www.sqltutorial.org/sql-cheat-sheet/) , [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet) , [READme](https://www.markdownguide.org/cheat-sheet/)
 
@@ -16,11 +16,11 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [Unsplash](https://unsplash.com/) , [Pixabay](https://pixabay.com/)
 
-##### Database
+### Database
 
 [SupaBase](https://supabase.com/)
 
-##### Extra Learning
+### Extra Learning
 
 - General learning
 
@@ -30,23 +30,23 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
   - [CSS Diner](https://flukeout.github.io/) , [Flexbox Froggy](https://flexboxfroggy.com/) , [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
 
-##### Google extensions
+### Google extensions
 
 [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) , [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) , [JSON Pretty](https://chromewebstore.google.com/detail/json-pretty/nflbalmkceonkkhifbifebanhladdgcp)
 
-##### Info
+### Info
 
 [MDN](https://developer.mozilla.org/en-US/) , [W3School](https://www.w3schools.com/) , [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css) , [A11y Project](https://www.a11yproject.com/checklist/) , [W3C](https://www.w3.org/) , [Stack Overflow](https://stackoverflow.com/questions)
 
-##### Packages
+### Packages
 
 [NPMJS](https://www.npmjs.com/) , [Vite](https://vite.dev/) , [express](https://www.npmjs.com/package/express) , [React router](https://reactrouter.com/home) , [TailwindCSS](https://tailwindcss.com/)
 
-##### Server
+### Server
 
 [Render](https://render.com/)
 
-##### Styling
+### Styling
 
 - Colors
 
@@ -68,14 +68,14 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
   - [CSS Reset](https://jgthms.com/minireset.css/) , [TinyPNG](https://tinypng.com/)
 
-##### Testing
+### Testing
 
 [Vitest](https://vitest.dev/) , [Jest](https://jestjs.io/) , [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit)
 
-##### Wireframe
+### Wireframe
 
 [Figma](https://www.figma.com/) , [Draw SQL](https://drawsql.app/)
 
-##### VSCode Extensions
+### VSCode Extensions
 
 [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) , [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) , [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) , [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) , [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) , [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) , [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) , [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) , [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) , [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) , [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) , [Postman](https://www.postman.com/)
