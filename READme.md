@@ -12,7 +12,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/) , [HTML, CSS, JS](https://htmlcheatsheet.com/) , [SQL](https://www.sqltutorial.org/sql-cheat-sheet/) , [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet) , [READme](https://www.markdownguide.org/cheat-sheet/)
 
-##### Copyright Free Media (Images, videos, Music)
+### Copyright Free Media (Images, videos, Music)
 
 [Unsplash](https://unsplash.com/) , [Pixabay](https://pixabay.com/)
 
@@ -40,7 +40,17 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ### Packages
 
-[NPMJS](https://www.npmjs.com/) , [Vite](https://vite.dev/) , [express](https://www.npmjs.com/package/express) , [React router](https://reactrouter.com/home) , [TailwindCSS](https://tailwindcss.com/)
+- Front-end
+
+  - [Vite](https://vite.dev/) , [React router](https://reactrouter.com/home) , [TailwindCSS](https://tailwindcss.com/)
+
+- Back-end
+
+  - [express](https://www.npmjs.com/package/express)
+
+- Other
+
+  - [NPMJS](https://www.npmjs.com/)
 
 ### Server
 
