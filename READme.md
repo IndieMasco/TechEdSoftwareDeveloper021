@@ -6,15 +6,15 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ### API
 
-[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [Free APIs](https://free-apis.github.io/#/) , [DummyJson](https://dummyjson.com/) , [Recipes](https://dummyjson.com/recipes)
+[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [DummyJson](https://dummyjson.com/) , [Free APIs](https://free-apis.github.io/#/) , [Recipes](https://dummyjson.com/recipes)
 
 ### Cheat Sheets
 
-[JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/) , [HTML, CSS, JS](https://htmlcheatsheet.com/) , [SQL](https://www.sqltutorial.org/sql-cheat-sheet/) , [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet) , [READme](https://www.markdownguide.org/cheat-sheet/)
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet) , [HTML, CSS, JS](https://htmlcheatsheet.com/) , [JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/) , [READme](https://www.markdownguide.org/cheat-sheet/) , [SQL](https://www.sqltutorial.org/sql-cheat-sheet/)
 
 ### Copyright Free Media (Images, videos, Music)
 
-[Unsplash](https://unsplash.com/) , [Pixabay](https://pixabay.com/)
+[Pixabay](https://pixabay.com/) , [Unsplash](https://unsplash.com/)
 
 ### Database
 
@@ -32,21 +32,21 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ### Google extensions
 
-[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) , [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) , [JSON Pretty](https://chromewebstore.google.com/detail/json-pretty/nflbalmkceonkkhifbifebanhladdgcp)
+[JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) , [JSON Pretty](https://chromewebstore.google.com/detail/json-pretty/nflbalmkceonkkhifbifebanhladdgcp) , [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 ### Info
 
-[MDN](https://developer.mozilla.org/en-US/) , [W3School](https://www.w3schools.com/) , [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css) , [A11y Project](https://www.a11yproject.com/checklist/) , [W3C](https://www.w3.org/) , [Stack Overflow](https://stackoverflow.com/questions)
+[A11y Project](https://www.a11yproject.com/checklist/) , [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css) , [MDN](https://developer.mozilla.org/en-US/) , [Stack Overflow](https://stackoverflow.com/questions) , [W3C](https://www.w3.org/) , [W3School](https://www.w3schools.com/)
 
 ### Packages
 
 - Front-end
 
-  - [Vite](https://vite.dev/) , [React router](https://reactrouter.com/home) , [TailwindCSS](https://tailwindcss.com/)
+  - [React router](https://reactrouter.com/home) , [TailwindCSS](https://tailwindcss.com/) , [Vite](https://vite.dev/)
 
 - Back-end
 
-  - [express](https://www.npmjs.com/package/express)
+  - [Express](https://www.npmjs.com/package/express)
 
 - Other
 
@@ -60,15 +60,15 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 - Colors
 
-  - [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [coolors](https://coolors.co/palette/220901-621708-941b0c-bc3908-f6aa1c)
+  - [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [Coolors](https://coolors.co/palette/220901-621708-941b0c-bc3908-f6aa1c)
 
 - favicon.ico
 
-  - [Favicon generator](https://favicon.io/favicon-generator/) , [Convert to ico](https://image.online-convert.com/convert-to-ico)
+  - [Convert to ico](https://image.online-convert.com/convert-to-ico) , [Favicon generator](https://favicon.io/favicon-generator/)
 
 - Font
 
-  - [Typescale](https://typescale.com/) , [FontPair](https://fontpair.co/category/sans-serif) , [Google Fonts](https://fonts.google.com/)
+  - [FontPair](https://fontpair.co/category/sans-serif) , [Google Fonts](https://fonts.google.com/) , [Typescale](https://typescale.com/)
 
 - Icons
 
@@ -80,12 +80,12 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ### Testing
 
-[Vitest](https://vitest.dev/) , [Jest](https://jestjs.io/) , [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit)
-
-### Wireframe
-
-[Figma](https://www.figma.com/) , [Draw SQL](https://drawsql.app/)
+[JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit) , [Jest](https://jestjs.io/) , [Vitest](https://vitest.dev/)
 
 ### VSCode Extensions
 
 [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) , [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) , [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) , [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) , [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) , [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) , [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) , [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) , [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) , [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) , [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) , [Postman](https://www.postman.com/)
+
+### Wireframe
+
+[Draw SQL](https://drawsql.app/) , [Figma](https://www.figma.com/)
