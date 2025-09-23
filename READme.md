@@ -4,37 +4,31 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ## External Sources
 
-##### Info
+##### API
 
-[MDN](https://developer.mozilla.org/en-US/) , [W3School](https://www.w3schools.com/) , [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css) , [A11y Project](https://www.a11yproject.com/checklist/) , [W3C](https://www.w3.org/) , [Stack Overflow](https://stackoverflow.com/questions)
+[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [Free APIs](https://free-apis.github.io/#/) , [DummyJson](https://dummyjson.com/) , [Recipes](https://dummyjson.com/recipes)
 
 ##### Cheat Sheets
 
 [JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/) , [HTML, CSS, JS](https://htmlcheatsheet.com/) , [SQL](https://www.sqltutorial.org/sql-cheat-sheet/) , [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet) , [READme](https://www.markdownguide.org/cheat-sheet/)
 
-##### Style
-
-[Typescale](https://typescale.com/) , [FontPair](https://fontpair.co/category/sans-serif) , [Google Fonts](https://fonts.google.com/) , [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [TinyPNG](https://tinypng.com/) , [TailwindCSS](https://tailwindcss.com/)
-
 ##### Copyright Free Media (Images, videos, Music)
 
 [Unsplash](https://unsplash.com/) , [Pixabay](https://pixabay.com/)
 
-##### API
+##### Database
 
-[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [Free APIs](https://free-apis.github.io/#/) , [DummyJson](https://dummyjson.com/) , [Recipes](https://dummyjson.com/recipes)
+[SupaBase](https://supabase.com/)
 
-##### Packages
+##### Extra Learning
 
-[NPMJS](https://www.npmjs.com/) , [Vite](https://vite.dev/) , [express](https://www.npmjs.com/package/express) , [React router](https://reactrouter.com/home)
+- General learning
 
-##### Server and Database
+  - [Codecademy](https://www.codecademy.com/) , [CodePen](https://codepen.io/) , [The Odin Project](https://www.theodinproject.com/)
 
-[Render](https://render.com/) , [SupaBase](https://supabase.com/)
+- Learning games
 
-##### Testing
-
-[Vitest](https://vitest.dev/) , [Jest](https://jestjs.io/) , [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit)
+  - [CSS Diner](https://flukeout.github.io/) , [Flexbox Froggy](https://flexboxfroggy.com/) , [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
 
 ##### favicon.ico
 
@@ -44,13 +38,43 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) , [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) , [JSON Pretty](https://chromewebstore.google.com/detail/json-pretty/nflbalmkceonkkhifbifebanhladdgcp)
 
-##### Extra Learning
+##### Info
 
-[Codecademy](https://www.codecademy.com/) , [CodePen](https://codepen.io/) , [CSS Diner](https://flukeout.github.io/) , [Flexbox Froggy](https://flexboxfroggy.com/) , [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
+[MDN](https://developer.mozilla.org/en-US/) , [W3School](https://www.w3schools.com/) , [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css) , [A11y Project](https://www.a11yproject.com/checklist/) , [W3C](https://www.w3.org/) , [Stack Overflow](https://stackoverflow.com/questions)
 
-##### Other
+##### Packages
 
-[CSS Reset](https://jgthms.com/minireset.css/) , [Figma](https://www.figma.com/)
+[NPMJS](https://www.npmjs.com/) , [Vite](https://vite.dev/) , [express](https://www.npmjs.com/package/express) , [React router](https://reactrouter.com/home) , [TailwindCSS](https://tailwindcss.com/)
+
+##### Server
+
+[Render](https://render.com/)
+
+##### Style
+
+- Font
+
+  - [Typescale](https://typescale.com/) , [FontPair](https://fontpair.co/category/sans-serif) , [Google Fonts](https://fonts.google.com/)
+
+- Colors
+
+  - [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [coolors](https://coolors.co/palette/220901-621708-941b0c-bc3908-f6aa1c)
+
+- Icons
+
+  - [Icon-Icons](https://icon-icons.com/) , [Tabler](https://tabler.io/icons)
+
+- Other
+
+  - [CSS Reset](https://jgthms.com/minireset.css/) , [TinyPNG](https://tinypng.com/)
+
+##### Testing
+
+[Vitest](https://vitest.dev/) , [Jest](https://jestjs.io/) , [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit)
+
+##### Wireframe
+
+[Figma](https://www.figma.com/) , [Draw SQL](https://drawsql.app/)
 
 ##### VSCode Extensions
 
