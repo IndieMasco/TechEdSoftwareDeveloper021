@@ -44,7 +44,7 @@
 
 - Create - POST
 - Read - GET
-- Update - PUT
+- Update - PUT (full update), PATCH (partial update)
 - Delete - DELETE
 
 # Using packages on two pc
