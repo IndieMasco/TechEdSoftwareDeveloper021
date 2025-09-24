@@ -84,7 +84,17 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ### VSCode Extensions
 
-[Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) , [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) , [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) , [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) , [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) , [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) , [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) , [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) , [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) , [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) , [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) , [Postman](https://www.postman.com/)
+- Extensions
+
+  - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) , [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) , [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) , [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) , [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) , [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) , [Postman](https://www.postman.com/) , [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) , [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+
+- Themes & Icons
+
+  - [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) , [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+- Windows ONLY
+
+  - [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) ,
 
 ### Wireframe
 
