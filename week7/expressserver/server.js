@@ -46,6 +46,7 @@ app.get("/games", async (_, res) => {
 });
 
 // TODO: Read data from the games and review
+
 app.get("/games-reviews", async (_, res) => {
   try {
     const data = await db.query(`
@@ -58,19 +59,61 @@ app.get("/games-reviews", async (_, res) => {
   }
 });
 
-// TODO: Create new data in the games table
-app.post("/add-games", (req, res) => {
-  // Const biscuitData = req.body;
+// TODO: Create new data in the reviews table
+
+app.post("/add-reviews", (req, res) => {
+  // const reviewsData = req.body;
   // Destructure the body (alternative)
-  const gamesData = req.body;
+  const { name, review, gamesid } = req.body;
+
   try {
     const query = db.query(
-      `INSERT INTO games (name, review_id) VALUES ($1, $2);`,
-      [gamesData.name, gamesData.reviewid]
+      `INSERT INTO review (name, review, games_id) VALUES ($1, $2, $3);`,
+      [name, review, gamesid]
     );
-    res.status(200).json({ success: ture });
+    res.status(200).json({ success: true });
   } catch (error) {
-    console.error("Error in add-games route", error);
-    res.status(500).json({ success: fales });
+    console.error("Error in add-reviews route", error);
+    res.status(500).json({ success: false });
+  }
+});
+
+// TODO: Delete an entry from my review table
+
+app.delete("/delete-review/:id", (req, res) => {
+  try {
+    // The request has an object called params
+    const paramsId = req.params.id;
+    // OR
+    // Destructure the params object
+    // const { id } = req.params;
+
+    // Query the database to delete one entry
+    const query = db.query(`DELETE FROM review WHERE id = $1 RETURNING*;`, [
+      paramsId,
+    ]);
+  } catch (error) {
+    console.error("error in the delete-review route", error);
+    res.status(500).json({ success: false });
+  }
+});
+
+// TODO: Update an entry in my review table
+
+app.put("/update-review/:id", (req, res) => {
+  try {
+    const paramsId = req.params.id;
+    const newData = req.body;
+    // Query my database to update ONE entry
+    // What specific entry? --> dynamic paramter
+    // What data do you want to add in place for the current data? --> body
+
+    const query = db.query(
+      `UPDATE review SET name = $1, review = $2, games_id = $3 WHERE id = $4 RETURNING*;`,
+      [newData.name, newData.review, newData.gamesid, paramsId]
+    );
+  } catch (error) {
+    console.error("Error in update-review route", error);
+    res.status(500).json({ success: false });
   }
 });
