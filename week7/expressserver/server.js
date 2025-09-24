@@ -64,7 +64,7 @@ app.get("/games-reviews", async (_, res) => {
 app.post("/add-reviews", (req, res) => {
   // const reviewsData = req.body;
   // Destructure the body (alternative)
-  const { name, review, gamesid } = req.body;
+  const { name, review, gamesid } = req.body; // THIS IS THE BODY
 
   try {
     const query = db.query(
@@ -103,7 +103,7 @@ app.delete("/delete-review/:id", (req, res) => {
 app.put("/update-review/:id", (req, res) => {
   try {
     const paramsId = req.params.id;
-    const newData = req.body;
+    const newData = req.body; // Using body from Create
     // Query my database to update ONE entry
     // What specific entry? --> dynamic paramter
     // What data do you want to add in place for the current data? --> body
