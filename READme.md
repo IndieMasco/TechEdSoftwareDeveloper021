@@ -6,7 +6,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ### API
 
-[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [DummyJson](https://dummyjson.com/) , [Free APIs](https://free-apis.github.io/#/) , [Recipes](https://dummyjson.com/recipes)
+[{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [DummyJson](https://dummyjson.com/) , [Free APIs](https://free-apis.github.io/#/) , [Frogs](https://week-6-api.vercel.app/api/images) , [Random fox](https://randomfox.ca/floof/) , [Recipes](https://dummyjson.com/recipes)
 
 ### Cheat Sheets
 
