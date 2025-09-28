@@ -36,7 +36,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ### Info
 
-[A11y Project](https://www.a11yproject.com/checklist/) , [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css) , [MDN](https://developer.mozilla.org/en-US/) , [Stack Overflow](https://stackoverflow.com/questions) , [W3C](https://www.w3.org/) , [W3School](https://www.w3schools.com/)
+[A11y Project](https://www.a11yproject.com/checklist/) , [CSS Tags](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html#css) , [MDN](https://developer.mozilla.org/en-US/) , [Stack Overflow](https://stackoverflow.com/questions) , [Vite](https://vite.dev/) , [W3C](https://www.w3.org/) , [W3School](https://www.w3schools.com/)
 
 ### Packages
 
@@ -76,7 +76,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 - Other
 
-  - [CSS Reset](https://jgthms.com/minireset.css/) , [TinyPNG](https://tinypng.com/)
+  - [CSS Reset](https://jgthms.com/minireset.css/) , [Material Design](https://m3.material.io/) , [TinyPNG](https://tinypng.com/)
 
 ### Testing
 
