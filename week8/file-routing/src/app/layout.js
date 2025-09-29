@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Header />
-        {/* children is the placeholder for */}
+        {/* children is the placeholder for all the pages content */}
         {children}
         <Footer />
       </body>
