@@ -1,5 +1,10 @@
 import Link from "next/link";
 
+export const metadata = {
+  title: "Posts - Next.js",
+  description: "A simple blog built with Next.js",
+};
+
 export default async function PostListPage({ searchParams }) {
   const query = await searchParams;
   console.log("searchParams", query);
