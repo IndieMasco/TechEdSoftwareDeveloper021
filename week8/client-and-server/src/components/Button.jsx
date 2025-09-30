@@ -1,3 +1,5 @@
+// Client component
+// Task: onClick event
 "use client"; // This directive makes this compnent to run in the client
 
 import { useState } from "react";
