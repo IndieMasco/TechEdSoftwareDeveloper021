@@ -60,7 +60,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 - Colors
 
-  - [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [Coolors](https://coolors.co/palette/220901-621708-941b0c-bc3908-f6aa1c)
+  - [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer) , [Coolors](https://coolors.co/palette/220901-621708-941b0c-bc3908-f6aa1c) , [www.w3schools colors](https://www.w3schools.com/colors/colors_shades.asp)
 
 - favicon.ico
 
@@ -72,7 +72,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 - Icons
 
-  - [Icon-Icons](https://icon-icons.com/) , [Tabler](https://tabler.io/icons)
+  - [Icon-Icons](https://icon-icons.com/) , [Tabler](https://tabler.io/icons) , [w3schools icons](https://www.w3schools.com/icons/fontawesome_icons_brand.asp)
 
 - Other
 
