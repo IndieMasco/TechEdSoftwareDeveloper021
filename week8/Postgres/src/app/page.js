@@ -6,7 +6,13 @@ export default function HomePage() {
     <div>
       <h1>Rollercoasters</h1>
       {/* this image src is stored in the public folder */}
-      <Image src={Logo} alt="a logo" width={500} height={200} />
+      <Image
+        src={Logo}
+        alt="a logo"
+        placeholder="blur"
+        width={500}
+        height={200}
+      />
       {/* for remote images, we need to give hosts permission to send a response to our app --> add a remotePattern to the next.config.js file */}
       <Image
         src={
