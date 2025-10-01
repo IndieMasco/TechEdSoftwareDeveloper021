@@ -1,7 +1,21 @@
+import Image from "next/image";
+import Logo from "@/../public/image/Logo.png";
+
 export default function HomePage() {
   return (
     <div>
-      <h1>Home page</h1>
+      <h1>Rollercoasters</h1>
+      {/* this image src is stored in the public folder */}
+      <Image src={Logo} alt="a logo" width={500} height={200} />
+      {/* for remote images, we need to give hosts permission to send a response to our app --> add a remotePattern to the next.config.js file */}
+      <Image
+        src={
+          "https://images.unsplash.com/photo-1552910919-96dd34d2c4e0?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+        alt="a rollercoaster full of excited people"
+        width={500}
+        height={200}
+      />
     </div>
   );
 }
