@@ -1,6 +1,8 @@
 //TODO: render the rollercoasters data from the database
 import { db } from "@/utils/dbConnection";
 import Link from "next/link";
+//import your module
+import rollercoastersStyles from "./rollercoasters.module.css";
 
 export default async function RollercoastersPage() {
   //query the database --> GET all the data from the table
@@ -15,8 +17,15 @@ export default async function RollercoastersPage() {
     <div>
       {rollercoasters.map((rollercoaster) => {
         return (
-          <div key={rollercoaster.id}>
-            <Link href={`/rollercoasters/${rollercoaster.id}`}>
+          // access the classNames from the stylesheet
+          <div
+            className={rollercoastersStyles.listContainer}
+            key={rollercoaster.id}
+          >
+            <Link
+              className={rollercoastersStyles.link}
+              href={`/rollercoasters/${rollercoaster.id}`}
+            >
               {rollercoaster.name}
             </Link>
           </div>
