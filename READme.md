@@ -54,7 +54,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 ### Server
 
-[Render](https://render.com/)
+[Render](https://render.com/) , [Vercel](https://vercel.com/)
 
 ### Styling
 
