@@ -8,6 +8,10 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) , [DummyJson](https://dummyjson.com/) , [Free APIs](https://free-apis.github.io/#/) , [Frogs](https://week-6-api.vercel.app/api/images) , [Random fox](https://randomfox.ca/floof/) , [Recipes](https://dummyjson.com/recipes)
 
+### Authentication
+
+[Clerk](https://clerk.com/)
+
 ### Cheat Sheets
 
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet) , [HTML, CSS, JS](https://htmlcheatsheet.com/) , [JavaScript Tags](https://www.joshwcomeau.com/operator-lookup/) , [READme](https://www.markdownguide.org/cheat-sheet/) , [SQL](https://www.sqltutorial.org/sql-cheat-sheet/)
@@ -81,6 +85,10 @@ This repository contains all the topics I have covered in the Tech Educators sof
 ### Testing
 
 [JavaScript Debugger](https://pythontutor.com/javascript.html#mode=edit) , [Jest](https://jestjs.io/) , [Vitest](https://vitest.dev/)
+
+### UI
+
+[Chakra](https://chakra-ui.com/) , [MUI](https://mui.com/) , [Radix](https://www.radix-ui.com/) , [Shadcn](https://ui.shadcn.com/)
 
 ### VSCode Extensions
 
