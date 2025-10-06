@@ -1,7 +1,9 @@
-export default function Home() {
+//public route --> "/"
+
+export default function HomePage() {
   return (
     <>
-      <h1>Clerk</h1>
+      <h1>HomePage</h1>
     </>
   );
 }

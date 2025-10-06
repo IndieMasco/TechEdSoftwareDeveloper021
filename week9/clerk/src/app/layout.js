@@ -1,8 +1,8 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-
-// import clerk provider
+//import ClerkProvider
 import { ClerkProvider } from "@clerk/nextjs";
+import Header from "@/components/Header";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -20,13 +20,14 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
-  // Nest our root elements within the ClerkProvider component
+  //nest our root elements within the ClerkProvider component
   return (
     <ClerkProvider>
       <html lang="en">
         <body
           className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         >
+          <Header />
           {children}
         </body>
       </html>

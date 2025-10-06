@@ -1,4 +1,4 @@
-// Protected route -->"/pists" (In out case, based on the content)
+//protected route --> "/posts" (in our case, based on the content)
 
 export default function PostsPage() {
   return (
