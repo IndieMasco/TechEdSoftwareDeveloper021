@@ -1,10 +1,11 @@
 import Image from "next/image";
 import Logo from "@/../public/image/Logo.png";
+import Headings from "@/components/Headings";
 
 export default function HomePage() {
   return (
     <div>
-      <h1>Rollercoasters</h1>
+      <Headings />
       {/* this image src is stored in the public folder */}
       <Image
         src={Logo}
