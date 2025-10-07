@@ -12,7 +12,7 @@ export default async function SlowComponent() {
   return (
     <div>
       <h1>SlowComponent</h1>
-      <p>VERY SLOW CONTENT</p>
+      <img src="https://media1.tenor.com/m/f49vNce6MYwAAAAd/listen-i-know-im-late-i-can-explain-listen.gif" />
     </div>
   );
 }
