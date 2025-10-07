@@ -1,5 +1,9 @@
-//TODO: render dynamically each rollercoaster entry in the database
+// TODO: render dynamically each rollercoaster entry in the database
+// TODO: Activate our not-found page
+
 import { db } from "@/utils/dbConnection";
+// Import notFound from next/navigation
+import { notFound } from "next/navigation";
 
 export default async function RollercoasterIdPage({ params }) {
   const rollercoasterId = await params.rollercoasterId;
@@ -12,6 +16,13 @@ export default async function RollercoasterIdPage({ params }) {
   //wrangle data
   const rollercoaster = query.rows[0];
   console.log(rollercoaster);
+
+  // Logic to check if there is an object in out rows array
+  // If there is no object in the rows array, navigate to the not-found page
+  if (!rollercoaster) {
+    notFound();
+  }
+
   return (
     <div>
       <h2>{rollercoaster.name}</h2>
