@@ -34,6 +34,10 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
   - [CSS Diner](https://flukeout.github.io/) , [Flexbox Froggy](https://flexboxfroggy.com/) , [Knights Of The Flexbox Table](https://knightsoftheflexboxtable.com/)
 
+- Technical challenge
+
+  - [leetcode](https://leetcode.com/problems/arithmetic-slices/) , [jschallenger](https://www.jschallenger.com/intermediate-javascript/) , [codewars](https://www.codewars.com/)
+
 ### Google extensions
 
 [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) , [JSON Pretty](https://chromewebstore.google.com/detail/json-pretty/nflbalmkceonkkhifbifebanhladdgcp) , [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
@@ -94,7 +98,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 - Extensions
 
-  - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) , [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) , [ES7+](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) , [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) , [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) , [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) , [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) , [Postman](https://www.postman.com/) , [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) , [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+  - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) , [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) , [ES7+](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) , [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) , [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) , [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) , [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) , [Postman](https://www.postman.com/) , [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) , [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) , [Tailwind Fold](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold)
 
 - Themes & Icons
 
