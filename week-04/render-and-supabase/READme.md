@@ -4,7 +4,7 @@
 
 [Repo](https://github.com/IndieMasco/monorepo)
 
-## THINGS HAVE BEEN UPDATED SINCE WRITING THIS SETUP SO THIS GUIDE ISN'T UP TO DATE.
+## THINGS HAVE NOT BEEN UPDATED SINCE WRITING THIS SETUP SO THIS GUIDE ISN'T UP TO DATE.
 
 ## Client and server set-up within the terminal (Ubuntu)
 
