@@ -28,7 +28,7 @@ This repository contains all the topics I have covered in the Tech Educators sof
 
 - General learning
 
-  - [Codecademy](https://www.codecademy.com/) , [CodePen](https://codepen.io/) , [The Odin Project](https://www.theodinproject.com/)
+  - [Codecademy](https://www.codecademy.com/) , [CodePen](https://codepen.io/) , [The Odin Project](https://www.theodinproject.com/) , [Roadmap](https://roadmap.sh/) , [Free code camp](https://www.freecodecamp.org/) , [Codecademy](https://www.codecademy.com/) , [CS50](https://cs50.harvard.edu/x/)
 
 - Learning games
 
@@ -63,6 +63,10 @@ This repository contains all the topics I have covered in the Tech Educators sof
 ### Server
 
 [Render](https://render.com/) , [Vercel](https://vercel.com/)
+
+### Social
+
+[Nor(DEV)](https://norfolkdevelopers.com/) , [Codebar](https://codebar.io/)
 
 ### Styling
 
